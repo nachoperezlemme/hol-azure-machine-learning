@@ -13,7 +13,7 @@ In this session, we will generate synthetic data that will be used in the next A
 
 f(5)=5  
 
-f(-10)=10  
+f(-10)=-10  
 
 f(1.4)=1.4  
 
